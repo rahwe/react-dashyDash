@@ -1,0 +1,33 @@
+.sidenav{
+    border-right: 1px solid #F6F9FD;
+    width: 65px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 0;
+
+}
+
+.image{
+    border-color: #F6F9FD;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color: #9EAAC8;
+    position: fixed;
+    top: 10px;
+
+}
+.panel .icon{
+    margin-bottom: 1.5rem;
+}
+.icon {
+    width: 25px;
+    height: 25px;
+}
+.arrow {
+    transform: rotate(90deg);
+}

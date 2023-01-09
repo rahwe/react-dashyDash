@@ -1,0 +1,17 @@
+
+.topNav {
+    margin-left: 70px;
+    height: 65px;
+    border-bottom: 3px solid #F6F9FD;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    justify-content: space-between;
+}
+
+.brand {
+    margin: 0;
+    font-weight: 700;
+}
+
+

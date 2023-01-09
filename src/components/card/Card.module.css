@@ -1,0 +1,12 @@
+.card {
+ border-radius: 5px;
+ background-color: white;
+ height: 100%;
+ padding: 2rem;
+ box-shadow: 1px 1px 3px 0 #c3cad9;
+}
+
+.headline{
+ font-weight: 400;
+ color: #9EAAC8;
+}
